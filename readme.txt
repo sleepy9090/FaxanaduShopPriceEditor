@@ -4,8 +4,8 @@ April 29, 2018
 
 -Requires .NET Framework 3.5
 
-DragonWarriorShopEditor
-Shop Editor for Dragon Warrior USA NES
+FaxanaduShopEditor 
+Shop Editor for Faxanadu USA NES
 Change prices for items in shops.
 Change some shop dialogs.
 
