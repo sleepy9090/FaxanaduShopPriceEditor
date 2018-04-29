@@ -1,0 +1,16 @@
+F:\Users\sleepy\Documents\visual studio 2013\Projects\FaxanaduShopPriceEditor\FaxanaduShopPriceEditor\bin\Release\FaxanaduShopPriceEditor.exe
+F:\Users\sleepy\Documents\visual studio 2013\Projects\FaxanaduShopPriceEditor\FaxanaduShopPriceEditor\bin\Release\FaxanaduShopPriceEditor.pdb
+F:\Users\sleepy\Documents\visual studio 2013\Projects\FaxanaduShopPriceEditor\FaxanaduShopPriceEditor\obj\Release\FaxanaduShopPriceEditor.AboutBox1.resources
+F:\Users\sleepy\Documents\visual studio 2013\Projects\FaxanaduShopPriceEditor\FaxanaduShopPriceEditor\obj\Release\FaxanaduShopPriceEditor.Form1.resources
+F:\Users\sleepy\Documents\visual studio 2013\Projects\FaxanaduShopPriceEditor\FaxanaduShopPriceEditor\obj\Release\FaxanaduShopPriceEditor.FormApolune.resources
+F:\Users\sleepy\Documents\visual studio 2013\Projects\FaxanaduShopPriceEditor\FaxanaduShopPriceEditor\obj\Release\FaxanaduShopPriceEditor.FormConflate.resources
+F:\Users\sleepy\Documents\visual studio 2013\Projects\FaxanaduShopPriceEditor\FaxanaduShopPriceEditor\obj\Release\FaxanaduShopPriceEditor.FormDartmoor.resources
+F:\Users\sleepy\Documents\visual studio 2013\Projects\FaxanaduShopPriceEditor\FaxanaduShopPriceEditor\obj\Release\FaxanaduShopPriceEditor.FormDaybreak.resources
+F:\Users\sleepy\Documents\visual studio 2013\Projects\FaxanaduShopPriceEditor\FaxanaduShopPriceEditor\obj\Release\FaxanaduShopPriceEditor.FormEolis.resources
+F:\Users\sleepy\Documents\visual studio 2013\Projects\FaxanaduShopPriceEditor\FaxanaduShopPriceEditor\obj\Release\FaxanaduShopPriceEditor.FormForepaw.resources
+F:\Users\sleepy\Documents\visual studio 2013\Projects\FaxanaduShopPriceEditor\FaxanaduShopPriceEditor\obj\Release\FaxanaduShopPriceEditor.FormMascon.resources
+F:\Users\sleepy\Documents\visual studio 2013\Projects\FaxanaduShopPriceEditor\FaxanaduShopPriceEditor\obj\Release\FaxanaduShopPriceEditor.FormVictim.resources
+F:\Users\sleepy\Documents\visual studio 2013\Projects\FaxanaduShopPriceEditor\FaxanaduShopPriceEditor\obj\Release\FaxanaduShopPriceEditor.Properties.Resources.resources
+F:\Users\sleepy\Documents\visual studio 2013\Projects\FaxanaduShopPriceEditor\FaxanaduShopPriceEditor\obj\Release\FaxanaduShopPriceEditor.csproj.GenerateResource.Cache
+F:\Users\sleepy\Documents\visual studio 2013\Projects\FaxanaduShopPriceEditor\FaxanaduShopPriceEditor\obj\Release\FaxanaduShopPriceEditor.exe
+F:\Users\sleepy\Documents\visual studio 2013\Projects\FaxanaduShopPriceEditor\FaxanaduShopPriceEditor\obj\Release\FaxanaduShopPriceEditor.pdb
