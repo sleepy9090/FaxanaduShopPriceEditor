@@ -14,3 +14,21 @@ F:\Users\sleepy\Documents\visual studio 2013\Projects\FaxanaduShopPriceEditor\Fa
 F:\Users\sleepy\Documents\visual studio 2013\Projects\FaxanaduShopPriceEditor\FaxanaduShopPriceEditor\obj\Release\FaxanaduShopPriceEditor.csproj.GenerateResource.Cache
 F:\Users\sleepy\Documents\visual studio 2013\Projects\FaxanaduShopPriceEditor\FaxanaduShopPriceEditor\obj\Release\FaxanaduShopPriceEditor.exe
 F:\Users\sleepy\Documents\visual studio 2013\Projects\FaxanaduShopPriceEditor\FaxanaduShopPriceEditor\obj\Release\FaxanaduShopPriceEditor.pdb
+C:\Users\Administrator\source\repos\FaxanaduShopPriceEditor\FaxanaduShopPriceEditor\bin\Release\FaxanaduShopPriceEditor.exe
+C:\Users\Administrator\source\repos\FaxanaduShopPriceEditor\FaxanaduShopPriceEditor\bin\Release\FaxanaduShopPriceEditor.pdb
+C:\Users\Administrator\source\repos\FaxanaduShopPriceEditor\FaxanaduShopPriceEditor\obj\Release\FaxanaduShopPriceEditor.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\FaxanaduShopPriceEditor\FaxanaduShopPriceEditor\obj\Release\FaxanaduShopPriceEditor.AboutBox1.resources
+C:\Users\Administrator\source\repos\FaxanaduShopPriceEditor\FaxanaduShopPriceEditor\obj\Release\FaxanaduShopPriceEditor.Form1.resources
+C:\Users\Administrator\source\repos\FaxanaduShopPriceEditor\FaxanaduShopPriceEditor\obj\Release\FaxanaduShopPriceEditor.FormApolune.resources
+C:\Users\Administrator\source\repos\FaxanaduShopPriceEditor\FaxanaduShopPriceEditor\obj\Release\FaxanaduShopPriceEditor.FormConflate.resources
+C:\Users\Administrator\source\repos\FaxanaduShopPriceEditor\FaxanaduShopPriceEditor\obj\Release\FaxanaduShopPriceEditor.FormDartmoor.resources
+C:\Users\Administrator\source\repos\FaxanaduShopPriceEditor\FaxanaduShopPriceEditor\obj\Release\FaxanaduShopPriceEditor.FormDaybreak.resources
+C:\Users\Administrator\source\repos\FaxanaduShopPriceEditor\FaxanaduShopPriceEditor\obj\Release\FaxanaduShopPriceEditor.FormEolis.resources
+C:\Users\Administrator\source\repos\FaxanaduShopPriceEditor\FaxanaduShopPriceEditor\obj\Release\FaxanaduShopPriceEditor.FormForepaw.resources
+C:\Users\Administrator\source\repos\FaxanaduShopPriceEditor\FaxanaduShopPriceEditor\obj\Release\FaxanaduShopPriceEditor.FormMascon.resources
+C:\Users\Administrator\source\repos\FaxanaduShopPriceEditor\FaxanaduShopPriceEditor\obj\Release\FaxanaduShopPriceEditor.FormVictim.resources
+C:\Users\Administrator\source\repos\FaxanaduShopPriceEditor\FaxanaduShopPriceEditor\obj\Release\FaxanaduShopPriceEditor.Properties.Resources.resources
+C:\Users\Administrator\source\repos\FaxanaduShopPriceEditor\FaxanaduShopPriceEditor\obj\Release\FaxanaduShopPriceEditor.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\FaxanaduShopPriceEditor\FaxanaduShopPriceEditor\obj\Release\FaxanaduShopPriceEditor.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\FaxanaduShopPriceEditor\FaxanaduShopPriceEditor\obj\Release\FaxanaduShopPriceEditor.exe
+C:\Users\Administrator\source\repos\FaxanaduShopPriceEditor\FaxanaduShopPriceEditor\obj\Release\FaxanaduShopPriceEditor.pdb
